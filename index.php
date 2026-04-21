@@ -15,7 +15,7 @@
   <?php include "../tugas-uts-pweb/components/nav.php"; ?>
 
   <div class="container">
-    <div>
+    <div class="d-flex justify-content-between my-3">
 
       <!-- Card -->
       <div class="card" style="width: 18rem;">
@@ -26,13 +26,23 @@
           </div>
         </a>
       </div>
+      <div class="card" style="width: 18rem;">
+        <a class="text-decoration-none text-dark" href="../tugas-uts-pweb/pages/information-art-market.php">
+          <img class="card-img-top" src="https://ubudtourism.com/wp-content/uploads/elementor/thumbs/Ubud-bali-art-market-qprxt4hwyq0do21xn9z96n1vz20kgz0hqvuvtgu680.jpg" alt="art-market">
+          <div class="card-body">
+            <p class="card-text">The Ubud Art Market, or Pasar Seni Ubud, is a bustling hub of local crafts, souvenirs, and artwork</p>
+          </div>
+        </a>
+      </div>
+      <div class="card" style="width: 18rem;">
+        <a class="text-decoration-none text-dark" href="../tugas-uts-pweb/pages/information-ubud-palace.php">
+          <img class="card-img-top" src="https://ubudtourism.com/wp-content/uploads/elementor/thumbs/water-palace-ubud-bali-qpry8y440bo53r2j94765nb7yk101jttx774n5dlhc.jpg" alt="ubud-palace">
+          <div class="card-body">
+            <p class="card-text">Ubud Palace, also known as Puri Saren Agung, is a historical landmark in the center of Ubud</p>
+          </div>
+        </a>
+      </div>
     </div>
-
-
-    <!-- Kalau Hello World Muncul di Canvas Siap Untuk Mulai Coding -->
-    <!-- pastikan gunakan internet yaa agar Boostrap Bisa Kerender -->
-    Hello World
-    <!-- Buat Kode Disini -->
   </div>
 
   <?php include "../tugas-uts-pweb/components/footer.php"; ?>

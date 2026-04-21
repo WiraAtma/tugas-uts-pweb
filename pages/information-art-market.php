@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Monkey Forest</title>
+  <title>Art Market</title>
   <link 
     href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" 
     rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" 
@@ -15,7 +15,7 @@
   <?php include "../components/nav.php"; ?>
 
   <div class="container">
-    Monkey Forest
+    Art Market
 
     <a href="../index.php">Back To Home</a>
   </div>

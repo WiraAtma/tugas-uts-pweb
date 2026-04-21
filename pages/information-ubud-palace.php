@@ -14,8 +14,9 @@
 <body>
   <?php include "../components/nav.php"; ?>
 
-  <div class="container">
-    Monkey Forest
+  <div class="container border border-dark border-5">
+    Ubud Palacew
+    
 
     <a href="../index.php">Back To Home</a>
   </div>
