@@ -1,5 +1,5 @@
 <html>
-  <body>
-    <a href="/pages/profile.php">Halaman Profile</a>
-  </body>
+  <div class="text-center">
+    <a href="/pages/profile.php">Click Me Halaman Profile</a>
+  </div>
 </html>
