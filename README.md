@@ -1,7 +1,7 @@
 Tugas UTS Pemrograman Web
 
 Nama Kelompok :
-- Wira
+- Wira atmaja
 - Ivan
 - Lidya
 - Maria
