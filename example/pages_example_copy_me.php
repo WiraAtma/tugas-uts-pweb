@@ -9,19 +9,17 @@
     rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" 
     crossorigin="anonymous"
   >
-  <link rel="stylesheet" href="/assets/global-style.css">
+  <link rel="stylesheet" href="../assets/global-style.css">
 </head>
 <body>
-  <?php include "../tugas-uts-pweb/components/nav.php"; ?>
+  <?php include "../components/nav.php"; ?>
 
   <div class="container">
-    <!-- Kalau Hello World Muncul di Canvas Siap Untuk Mulai Coding -->
-    <!-- pastikan gunakan internet yaa agar Boostrap Bisa Kerender -->
     Hello World
-    <!-- Buat Kode Disini -->
+    <a href="../index.php">Back To Home</a>
   </div>
 
-  <?php include "../tugas-uts-pweb/components/footer.php"; ?>
+  <?php include "../components/footer.php"; ?>
   <script 
     src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" 
     integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" 

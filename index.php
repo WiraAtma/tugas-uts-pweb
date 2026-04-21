@@ -15,6 +15,20 @@
   <?php include "../tugas-uts-pweb/components/nav.php"; ?>
 
   <div class="container">
+    <div>
+
+      <!-- Card -->
+      <div class="card" style="width: 18rem;">
+        <a class="text-decoration-none text-dark" href="../tugas-uts-pweb/pages/information-monkey-forest.php">
+          <img class="card-img-top" src="https://ubudtourism.com/wp-content/uploads/elementor/thumbs/Sacred-monkey-forest-sanctuary-ubud-bali-15-qpr03cilrefvjb4s945fxfkwzykhvheh78tzbein0g.jpg" alt="monkey-forest-ubud">
+          <div class="card-body">
+            <p class="card-text">Home to hundreds of playful long-tailed macaques, the Sacred Monkey Forest Sanctuary is a must-visit</p>
+          </div>
+        </a>
+      </div>
+    </div>
+
+
     <!-- Kalau Hello World Muncul di Canvas Siap Untuk Mulai Coding -->
     <!-- pastikan gunakan internet yaa agar Boostrap Bisa Kerender -->
     Hello World

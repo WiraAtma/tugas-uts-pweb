@@ -15,7 +15,8 @@
   <?php include "../components/nav.php"; ?>
 
   <div class="container">
-    Profile
+    Monkey Forest
+
     <a href="../index.php">Back To Home</a>
   </div>
 
