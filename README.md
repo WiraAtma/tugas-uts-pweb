@@ -3,7 +3,7 @@ Tugas UTS Pemrograman Web
 Nama Kelompok :
 - Wira atmaja
 - Ivan
-- Lidya
+- Lidya Dwima 19
 - Maria
 
 Step :
