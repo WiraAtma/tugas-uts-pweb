@@ -9,17 +9,18 @@
     rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" 
     crossorigin="anonymous"
   >
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
   <link rel="stylesheet" href="../assets/global-style.css">
 </head>
 <body>
   <?php include "../components/nav.php"; ?>
 
-  <div class="container border border-dark border-5">
+  <main class="container">
     Ubud Palacew
     
 
     <a href="../index.php">Back To Home</a>
-  </div>
+  </main>
 
   <?php include "../components/footer.php"; ?>
   <script 
