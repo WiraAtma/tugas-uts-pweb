@@ -15,36 +15,270 @@
 <body>
   <?php include "../tugas-uts-pweb/components/nav.php"; ?>
 
-  <main class="container">
-    <div class="d-flex justify-content-between my-3">
+  <div style="position: relative;">
+    <img class="w-100 d-block" style="background-color: rgba(0, 0, 0, 0.4)" src="https://sanurtour.com/wp-content/uploads/2016/10/HEADER-IMAGE.gif" alt="">
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.4);"></div>
+    <div style="position: absolute; top: 50%; left: 0; transform: translateY(-50%); color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); padding-left: 60px; max-width: 50%;">
+      <h1 style="font-size: 48px; font-weight: bold; line-height: 1.2; margin-bottom: 20px;">Explore the Beauty of Ubud</h1>
+      <p style="font-size: 16px; line-height: 1.6;">Temukan pesona alam, budaya, dan ketenangan di jantung Bali. Ubud menghadirkan pengalaman wisata yang tak hanya indah, tetapi juga berkesan.</p>
+    </div>
+  </div>
 
-      <!-- Card -->
-      <div class="card" style="width: 18rem;">
+  <div class="container">
+    <div class="row align-items-center py-5">
+      <div class="col-md-5">
+        <img 
+          src="https://www.baliagatour.co.id/wp-content/uploads/2025/04/Hidden-Spot-di-Ubud-yang-Jarang-Diketahui-Wisatawan.jpg" 
+          alt="Ubud Hidden Spot" 
+          class="img-fluid rounded-4 shadow"
+          style="object-fit: cover; width: 100%; height: 320px;"
+        >
+      </div>
+
+      <div class="col-md-7 ps-md-5 mt-4 mt-md-0">
+        <h2 style="font-size: 42px; font-weight: 800; line-height: 1.2;">Give best experience <br> with our service</h2>
+        <p class="text-muted mt-3" style="font-size: 15px; line-height: 1.7;">
+          Temukan pengalaman wisata terbaik di Ubud bersama kami. Dari alam tersembunyi hingga budaya lokal yang kaya, kami siap menghadirkan perjalanan yang tak terlupakan untuk Anda.
+        </p>
+      </div>
+    </div>
+
+    <div class="row g-4 pb-5">
+      <div class="col-md-3">
+        <div class="p-4 rounded-4 border h-100">
+          <div class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width:54px; height:54px;">
+            <i class="bi bi-airplane fs-5"></i>
+          </div>
+          <h5 class="fw-bold">Flight Booking</h5>
+          <p class="text-muted small">Pesan tiket penerbangan dengan mudah dan harga terbaik ke Bali.</p>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="p-4 rounded-4 border h-100">
+          <div class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width:54px; height:54px;">
+            <i class="bi bi-map fs-5"></i>
+          </div>
+          <h5 class="fw-bold">Tour Booking</h5>
+          <p class="text-muted small">Jelajahi destinasi terbaik Ubud dengan paket tur pilihan kami.</p>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="p-4 rounded-4 border h-100">
+          <div class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width:54px; height:54px;">
+            <i class="bi bi-building fs-5"></i>
+          </div>
+          <h5 class="fw-bold">Hotel Booking</h5>
+          <p class="text-muted small">Temukan akomodasi terbaik dari villa nyaman hingga resort mewah.</p>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="p-4 rounded-4 border h-100">
+          <div class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width:54px; height:54px;">
+            <i class="bi bi-car-front fs-5"></i>
+          </div>
+          <h5 class="fw-bold">Transportation</h5>
+          <p class="text-muted small">Layanan antar-jemput dan sewa kendaraan untuk perjalanan nyaman.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div style="
+    position: relative;
+    background-image: url('https://balistarisland.com/wp-content/uploads/2024/01/ubud-bali.webp');
+    background-size: cover;
+    background-position: center;
+    padding: 80px 0;
+  ">
+    <div style="position: absolute; inset: 0; background-color: rgba(0,0,0,0.5);"></div>
+
+    <div class="container" style="position: relative; z-index: 1;">
+      <div class="row align-items-center g-5">
+
+        <div class="col-md-5 text-white">
+          <h2 style="font-size: 48px; font-weight: 800; line-height: 1.2;">The best way <br> to travel</h2>
+          <p class="mt-3" style="font-size: 15px; line-height: 1.7; color: rgba(255,255,255,0.85);">
+            Temukan cara terbaik menjelajahi keindahan Ubud. Kami hadir untuk membuat setiap langkah perjalanan Anda mudah, nyaman, dan berkesan.
+          </p>
+        </div>
+
+        <div class="col-md-7 d-flex flex-column gap-3">
+
+          <div class="d-flex align-items-start gap-3 bg-white rounded-4 p-4 shadow-sm">
+            <div class="flex-shrink-0 d-flex align-items-center justify-content-center rounded-circle border border-2" 
+                style="width:48px; height:48px; font-weight:700; font-size:14px; color:#555; border-color:#ccc;">
+              01
+            </div>
+            <div>
+              <h6 class="fw-bold mb-1">Choose Your Ticket</h6>
+              <p class="text-muted small mb-0">Pilih tiket perjalanan sesuai tujuan dan tanggal keberangkatan Anda dengan mudah.</p>
+            </div>
+          </div>
+
+          <div class="d-flex align-items-start gap-3 bg-white rounded-4 p-4 shadow-sm">
+            <div class="flex-shrink-0 d-flex align-items-center justify-content-center rounded-circle border border-2" 
+                style="width:48px; height:48px; font-weight:700; font-size:14px; color:#555; border-color:#ccc;">
+              02
+            </div>
+            <div>
+              <h6 class="fw-bold mb-1">Secure Your Book</h6>
+              <p class="text-muted small mb-0">Lakukan pemesanan dan pembayaran dengan aman melalui sistem kami yang terpercaya.</p>
+            </div>
+          </div>
+
+          <div class="d-flex align-items-start gap-3 bg-white rounded-4 p-4 shadow-sm">
+            <div class="flex-shrink-0 d-flex align-items-center justify-content-center rounded-circle border border-2" 
+                style="width:48px; height:48px; font-weight:700; font-size:14px; color:#555; border-color:#ccc;">
+              03
+            </div>
+            <div>
+              <h6 class="fw-bold mb-1">Enjoy Your Journey</h6>
+              <p class="text-muted small mb-0">Nikmati setiap momen perjalanan Anda di Ubud dengan tenang dan penuh kenangan indah.</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container py-5">
+    <div class="text-center mb-5">
+      <h2 style="font-size: 42px; font-weight: 800;">Trending destination for you</h2>
+      <p class="text-muted mx-auto mt-3" style="max-width: 480px; font-size: 15px; line-height: 1.7;">
+        Temukan destinasi wisata paling populer pilihan para pelancong dari seluruh dunia yang wajib kamu kunjungi.
+      </p>
+    </div>
+
+    <div class="d-flex justify-content-between gap-3">
+      <div class="card border-0 shadow-sm rounded-4 overflow-hidden" style="width: 18rem; flex-shrink: 0;">
         <a class="text-decoration-none text-dark" href="../tugas-uts-pweb/pages/information-monkey-forest.php">
-          <img class="card-img-top" src="https://ubudtourism.com/wp-content/uploads/elementor/thumbs/Sacred-monkey-forest-sanctuary-ubud-bali-15-qpr03cilrefvjb4s945fxfkwzykhvheh78tzbein0g.jpg" alt="monkey-forest-ubud">
-          <div class="card-body">
-            <p class="card-text">Home to hundreds of playful long-tailed macaques, the Sacred Monkey Forest Sanctuary is a must-visit</p>
+          <img 
+            class="card-img-top" 
+            src="https://ubudtourism.com/wp-content/uploads/elementor/thumbs/Sacred-monkey-forest-sanctuary-ubud-bali-15-qpr03cilrefvjb4s945fxfkwzykhvheh78tzbein0g.jpg" 
+            alt="monkey-forest-ubud"
+            style="height: 200px; object-fit: cover;"
+          >
+          <div class="card-body d-flex justify-content-between align-items-start">
+            <div>
+              <h6 class="fw-bold mb-1">Monkey Forest</h6>
+              <p class="text-muted mb-0" style="font-size: 13px;">
+                <i class="bi bi-geo-alt me-1"></i>Ubud, Bali
+              </p>
+            </div>
           </div>
         </a>
       </div>
-      <div class="card" style="width: 18rem;">
+
+      <div class="card border-0 shadow-sm rounded-4 overflow-hidden" style="width: 18rem; flex-shrink: 0;">
         <a class="text-decoration-none text-dark" href="../tugas-uts-pweb/pages/information-art-market.php">
-          <img class="card-img-top" src="https://ubudtourism.com/wp-content/uploads/elementor/thumbs/Ubud-bali-art-market-qprxt4hwyq0do21xn9z96n1vz20kgz0hqvuvtgu680.jpg" alt="art-market">
-          <div class="card-body">
-            <p class="card-text">The Ubud Art Market, or Pasar Seni Ubud, is a bustling hub of local crafts, souvenirs, and artwork</p>
+          <img 
+            class="card-img-top" 
+            src="https://ubudtourism.com/wp-content/uploads/elementor/thumbs/Ubud-bali-art-market-qprxt4hwyq0do21xn9z96n1vz20kgz0hqvuvtgu680.jpg" 
+            alt="art-market"
+            style="height: 200px; object-fit: cover;"
+          >
+          <div class="card-body d-flex justify-content-between align-items-start">
+            <div>
+              <h6 class="fw-bold mb-1">Art Market Ubud</h6>
+              <p class="text-muted mb-0" style="font-size: 13px;">
+                <i class="bi bi-geo-alt me-1"></i>Ubud, Bali
+              </p>
+            </div>
           </div>
         </a>
       </div>
-      <div class="card" style="width: 18rem;">
+
+      <div class="card border-0 shadow-sm rounded-4 overflow-hidden" style="width: 18rem; flex-shrink: 0;">
         <a class="text-decoration-none text-dark" href="../tugas-uts-pweb/pages/information-ubud-palace.php">
-          <img class="card-img-top" src="https://ubudtourism.com/wp-content/uploads/elementor/thumbs/water-palace-ubud-bali-qpry8y440bo53r2j94765nb7yk101jttx774n5dlhc.jpg" alt="ubud-palace">
-          <div class="card-body">
-            <p class="card-text">Ubud Palace, also known as Puri Saren Agung, is a historical landmark in the center of Ubud</p>
+          <img 
+            class="card-img-top" 
+            src="https://ubudtourism.com/wp-content/uploads/elementor/thumbs/water-palace-ubud-bali-qpry8y440bo53r2j94765nb7yk101jttx774n5dlhc.jpg" 
+            alt="ubud-palace"
+            style="height: 200px; object-fit: cover;"
+          >
+          <div class="card-body d-flex justify-content-between align-items-start">
+            <div>
+              <h6 class="fw-bold mb-1">Ubud Palace</h6>
+              <p class="text-muted mb-0" style="font-size: 13px;">
+                <i class="bi bi-geo-alt me-1"></i>Ubud, Bali
+              </p>
+            </div>
+          </div>
+        </a>
+      </div>
+
+      <div class="card border-0 shadow-sm rounded-4 overflow-hidden" style="width: 18rem; flex-shrink: 0;">
+        <a class="text-decoration-none text-dark" href="../tugas-uts-pweb/pages/information-ubud-palace.php">
+          <img 
+            class="card-img-top" 
+            src="https://ubudtourism.com/wp-content/uploads/elementor/thumbs/Tirta-Empul-Temple-ubud-bali-guide-qps18vwwtffibqa6yruvheqrpg0dyac6rg4el1c2yo.jpg" 
+            alt="ubud-palace"
+            style="height: 200px; object-fit: cover;"
+          >
+          <div class="card-body d-flex justify-content-between align-items-start">
+            <div>
+              <h6 class="fw-bold mb-1">Tirta Empul Temple</h6>
+              <p class="text-muted mb-0" style="font-size: 13px;">
+                <i class="bi bi-geo-alt me-1"></i>Ubud, Bali
+              </p>
+            </div>
           </div>
         </a>
       </div>
     </div>
-  </main>
+  </div>
+  <div class="container">
+    <!-- buat disini -->
+    <div class="py-5">
+
+      <!-- Heading -->
+      <h2 style="font-size: 48px; font-weight: 400; margin-bottom: 40px;">
+        Amazing views of <span style="font-weight: 700; text-decoration: underline; color: #4a1e1e;">Ubud</span>
+      </h2>
+
+      <div class="row align-items-center g-4">
+
+        <!-- Kiri: Grid 6 Foto 3x2 -->
+        <div class="col-md-7">
+          <div class="row g-3">
+            <div class="col-4">
+              <img src="https://goldenmonkeybali.com/wp-content/uploads/2022/01/ubud.webp" alt="ubud-1" class="img-fluid rounded-3" style="height: 180px; width: 100%; object-fit: cover; background-color: #e0e0e0;">
+            </div>
+            <div class="col-4">
+              <img src="https://jungleclububud.com/wp-content/uploads/2025/10/ubud-envato.jpg" alt="ubud-2" class="img-fluid rounded-3" style="height: 180px; width: 100%; object-fit: cover; background-color: #e0e0e0;">
+            </div>
+            <div class="col-4">
+              <img src="https://akcdn.detik.net.id/visual/2025/05/14/foto-dok-ubudquadbikingcom-1747221720490_169.jpeg?w=700&q=90" alt="ubud-3" class="img-fluid rounded-3" style="height: 180px; width: 100%; object-fit: cover; background-color: #e0e0e0;">
+            </div>
+            <div class="col-4">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Ubud_Palace_%282022%29.jpg" alt="ubud-4" class="img-fluid rounded-3" style="height: 180px; width: 100%; object-fit: cover; background-color: #e0e0e0;">
+            </div>
+            <div class="col-4">
+              <img src="https://i0.wp.com/visitbalitour.com/wp-content/uploads/2016/09/ubud-art-market.jpg?fit=778%2C519&ssl=1" alt="ubud-5" class="img-fluid rounded-3" style="height: 180px; width: 100%; object-fit: cover; background-color: #e0e0e0;">
+            </div>
+            <div class="col-4">
+              <img src="https://jungleclububud.com/wp-content/uploads/2025/09/ubud-art-market_sunshineseekercom-1024x683.jpg" alt="ubud-6" class="img-fluid rounded-3" style="height: 180px; width: 100%; object-fit: cover; background-color: #e0e0e0;">
+            </div>
+          </div>
+        </div>
+
+        <!-- Kanan: Teks & Tombol -->
+        <div class="col-md-5 ps-md-4">
+          <p style="font-size: 16px; line-height: 2; margin-bottom: 20px;">
+            Nestled in the lush central highlands of Bali, Ubud is surrounded by breathtaking natural beauty.
+          </p>
+          <p style="font-size: 16px; line-height: 2; margin-bottom: 32px;">
+            The town is famous for its picturesque rice terraces, verdant forests, and serene rivers. Tegallalang Rice Terraces, with their emerald-green stepped paddies, offer stunning panoramic views and an insight into traditional rice farming.
+          </p>
+          <a href="" class="btn text-white px-5 py-3" style="background-color: #e8500a; letter-spacing: 2px; font-size: 13px; font-weight: 600;">
+            VIEW GALLERY
+          </a>
+        </div>
+
+      </div>
+    </div>
+  </div>
 
   <?php include "../tugas-uts-pweb/components/footer.php"; ?>
   <script 
