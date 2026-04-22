@@ -19,7 +19,7 @@
     <img class="w-100 d-block" style="background-color: rgba(0, 0, 0, 0.4)" src="https://sanurtour.com/wp-content/uploads/2016/10/HEADER-IMAGE.gif" alt="">
     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.4);"></div>
     <div style="position: absolute; top: 50%; left: 0; transform: translateY(-50%); color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); padding-left: 60px; max-width: 50%;">
-      <h1 style="font-size: 48px; font-weight: bold; line-height: 1.2; margin-bottom: 20px;">Explore the Beauty of Ubud</h1>
+      <h1 style="font-size: 48px; font-weight: bold; line-height: 1.2; margin-bottom: 20px;">Jelajahi Keindahan Ubud</h1>
       <p style="font-size: 16px; line-height: 1.6;">Temukan pesona alam, budaya, dan ketenangan di jantung Bali. Ubud menghadirkan pengalaman wisata yang tak hanya indah, tetapi juga berkesan.</p>
     </div>
   </div>
@@ -36,7 +36,7 @@
       </div>
 
       <div class="col-md-7 ps-md-5 mt-4 mt-md-0">
-        <h2 style="font-size: 42px; font-weight: 800; line-height: 1.2;">Give best experience <br> with our service</h2>
+        <h2 style="font-size: 42px; font-weight: 800; line-height: 1.2;">Berikan Pengalaman Terbaik<br> dengan Layanan Kami</h2>
         <p class="text-muted mt-3" style="font-size: 15px; line-height: 1.7;">
           Temukan pengalaman wisata terbaik di Ubud bersama kami. Dari alam tersembunyi hingga budaya lokal yang kaya, kami siap menghadirkan perjalanan yang tak terlupakan untuk Anda.
         </p>
@@ -49,7 +49,7 @@
           <div class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width:54px; height:54px;">
             <i class="bi bi-airplane fs-5"></i>
           </div>
-          <h5 class="fw-bold">Flight Booking</h5>
+          <h5 class="fw-bold">Pemesanan Penerbangan</h5>
           <p class="text-muted small">Pesan tiket penerbangan dengan mudah dan harga terbaik ke Bali.</p>
         </div>
       </div>
@@ -58,7 +58,7 @@
           <div class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width:54px; height:54px;">
             <i class="bi bi-map fs-5"></i>
           </div>
-          <h5 class="fw-bold">Tour Booking</h5>
+          <h5 class="fw-bold">Pemesanan Tur</h5>
           <p class="text-muted small">Jelajahi destinasi terbaik Ubud dengan paket tur pilihan kami.</p>
         </div>
       </div>
@@ -67,7 +67,7 @@
           <div class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width:54px; height:54px;">
             <i class="bi bi-building fs-5"></i>
           </div>
-          <h5 class="fw-bold">Hotel Booking</h5>
+          <h5 class="fw-bold">Pemesanan Hotel</h5>
           <p class="text-muted small">Temukan akomodasi terbaik dari villa nyaman hingga resort mewah.</p>
         </div>
       </div>
@@ -76,7 +76,7 @@
           <div class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width:54px; height:54px;">
             <i class="bi bi-car-front fs-5"></i>
           </div>
-          <h5 class="fw-bold">Transportation</h5>
+          <h5 class="fw-bold">Transportasi</h5>
           <p class="text-muted small">Layanan antar-jemput dan sewa kendaraan untuk perjalanan nyaman.</p>
         </div>
       </div>
@@ -96,7 +96,7 @@
       <div class="row align-items-center g-5">
 
         <div class="col-md-5 text-white">
-          <h2 style="font-size: 48px; font-weight: 800; line-height: 1.2;">The best way <br> to travel</h2>
+          <h2 style="font-size: 48px; font-weight: 800; line-height: 1.2;">Cara Terbaik<br> Untuk Bepergian</h2>
           <p class="mt-3" style="font-size: 15px; line-height: 1.7; color: rgba(255,255,255,0.85);">
             Temukan cara terbaik menjelajahi keindahan Ubud. Kami hadir untuk membuat setiap langkah perjalanan Anda mudah, nyaman, dan berkesan.
           </p>
@@ -107,10 +107,10 @@
           <div class="d-flex align-items-start gap-3 bg-white rounded-4 p-4 shadow-sm">
             <div class="flex-shrink-0 d-flex align-items-center justify-content-center rounded-circle border border-2" 
                 style="width:48px; height:48px; font-weight:700; font-size:14px; color:#555; border-color:#ccc;">
-              01
+              1
             </div>
             <div>
-              <h6 class="fw-bold mb-1">Choose Your Ticket</h6>
+              <h6 class="fw-bold mb-1">Pilih Tiket Anda</h6>
               <p class="text-muted small mb-0">Pilih tiket perjalanan sesuai tujuan dan tanggal keberangkatan Anda dengan mudah.</p>
             </div>
           </div>
@@ -118,10 +118,10 @@
           <div class="d-flex align-items-start gap-3 bg-white rounded-4 p-4 shadow-sm">
             <div class="flex-shrink-0 d-flex align-items-center justify-content-center rounded-circle border border-2" 
                 style="width:48px; height:48px; font-weight:700; font-size:14px; color:#555; border-color:#ccc;">
-              02
+              2
             </div>
             <div>
-              <h6 class="fw-bold mb-1">Secure Your Book</h6>
+              <h6 class="fw-bold mb-1">Pemesanan Aman dan Terpercaya</h6>
               <p class="text-muted small mb-0">Lakukan pemesanan dan pembayaran dengan aman melalui sistem kami yang terpercaya.</p>
             </div>
           </div>
@@ -129,10 +129,10 @@
           <div class="d-flex align-items-start gap-3 bg-white rounded-4 p-4 shadow-sm">
             <div class="flex-shrink-0 d-flex align-items-center justify-content-center rounded-circle border border-2" 
                 style="width:48px; height:48px; font-weight:700; font-size:14px; color:#555; border-color:#ccc;">
-              03
+              3
             </div>
             <div>
-              <h6 class="fw-bold mb-1">Enjoy Your Journey</h6>
+              <h6 class="fw-bold mb-1">Nikmati Perjalanan Anda</h6>
               <p class="text-muted small mb-0">Nikmati setiap momen perjalanan Anda di Ubud dengan tenang dan penuh kenangan indah.</p>
             </div>
           </div>
@@ -144,7 +144,7 @@
 
   <div class="container py-5">
     <div class="text-center mb-5">
-      <h2 style="font-size: 42px; font-weight: 800;">Trending destination for you</h2>
+      <h2 style="font-size: 42px; font-weight: 800;">Pilihan Destinasi Yang Sedang Trending</h2>
       <p class="text-muted mx-auto mt-3" style="max-width: 480px; font-size: 15px; line-height: 1.7;">
         Temukan destinasi wisata paling populer pilihan para pelancong dari seluruh dunia yang wajib kamu kunjungi.
       </p>
@@ -230,8 +230,8 @@
   </div>
   <div class="container">
     <div class="py-5">
-      <h2 style="font-size: 48px; font-weight: 400; margin-bottom: 40px;">
-        Amazing views of <span style="font-weight: 700; text-decoration: underline; color: #4a1e1e;">Ubud</span>
+      <h2 style="font-size: 48px; margin-bottom: 40px;">
+        Amazing views of <span style="font-weight: 700; text-decoration: underline;">Ubud</span>
       </h2>
 
       <div class="row align-items-center g-4">
@@ -260,13 +260,13 @@
 
         <div class="col-md-5 ps-md-4">
           <p style="font-size: 16px; line-height: 2; margin-bottom: 20px;">
-            Nestled in the lush central highlands of Bali, Ubud is surrounded by breathtaking natural beauty.
+            Terletak di dataran tinggi tengah Bali yang rimbun, Ubud dikelilingi oleh keindahan alam yang menakjubkan.
           </p>
           <p style="font-size: 16px; line-height: 2; margin-bottom: 32px;">
-            The town is famous for its picturesque rice terraces, verdant forests, and serene rivers. Tegallalang Rice Terraces, with their emerald-green stepped paddies, offer stunning panoramic views and an insight into traditional rice farming.
+            Kota ini terkenal dengan sawah teraseringnya yang indah, hutan yang rimbun, dan sungai yang tenang. Sawah Terasering Tegallalang, dengan sawah bertingkat berwarna hijau zamrud, menawarkan pemandangan panorama yang menakjubkan dan wawasan tentang pertanian padi tradisional.
           </p>
-          <a href="" class="btn text-white px-5 py-3" style="background-color: #e8500a; letter-spacing: 2px; font-size: 13px; font-weight: 600;">
-            VIEW GALLERY
+          <a href="/tugas-uts-pweb/pages/galeri.php" class="btn btn-outline-dark" class="btn text-white px-5 py-3">
+            Lihat Galeri Lainnya
           </a>
         </div>
 

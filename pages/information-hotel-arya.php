@@ -22,7 +22,7 @@
       </a>
     </div>
 
-    Hello World 
+    Arya Villas Ubud, Lidya Silahkan Mulai Koding!
     <!-- koding disini -->
 
     <div class="text-center my-4">

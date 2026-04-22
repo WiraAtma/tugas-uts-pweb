@@ -16,7 +16,6 @@
   <?php include "../components/nav.php"; ?>
 
   <main class="container py-5" style="max-width: 1000px;">
-
     <a href="../index.php" class="text-decoration-none text-muted d-inline-block mb-4" style="font-size: 14px;">
       ← Back To Home
     </a>
@@ -101,8 +100,11 @@
           </div>
         </div>
       </a>
-
     </div>
+
+    <a href="../index.php" class="text-decoration-none text-muted d-inline-block my-4" style="font-size: 14px;">
+      ← Back To Home
+    </a>
   </main>
 
   <?php include "../components/footer.php"; ?>

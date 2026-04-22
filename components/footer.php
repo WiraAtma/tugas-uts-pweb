@@ -40,7 +40,7 @@
   <hr>
   <div class="text-center pb-3">
     <small class="text-muted">
-      Dibuat Oleh Wira, Ivan, Lidya, dan Maria
+      Dibuat Untuk Tugas UTS Oleh Wira, Ivan, Lidya, dan Maria dari Kelas Informatika Malam Universitas Primakara
     </small>
   </div>
 </footer>

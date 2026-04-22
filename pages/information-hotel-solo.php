@@ -16,8 +16,20 @@
   <?php include "../components/nav.php"; ?>
 
   <main class="container">
-    Information
-    <a href="../index.php">Back To Home</a>
+    <div class="text-center mb-4">
+      <a href="../index.php" class="text-decoration-none text-muted" style="font-size: 14px; letter-spacing: 1px;">
+        ← Kembali ke Home
+      </a>
+    </div>
+
+    Solo Villas & Retreat, Maria Silahkan Mulai Koding!
+    <!-- koding disini -->
+
+    <div class="text-center my-4">
+      <a href="../index.php" class="text-decoration-none text-muted" style="font-size: 14px; letter-spacing: 1px;">
+        ← Kembali ke Home
+      </a>
+    </div>
   </main>
 
   <?php include "../components/footer.php"; ?>

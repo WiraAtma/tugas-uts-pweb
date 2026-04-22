@@ -22,7 +22,7 @@
       </a>
     </div>
 
-    Hello World 
+    Restoran, Ivan Silahkan Mulai Koding! 
     <!-- koding disini -->
 
     <div class="text-center my-4">
