@@ -229,17 +229,12 @@
     </div>
   </div>
   <div class="container">
-    <!-- buat disini -->
     <div class="py-5">
-
-      <!-- Heading -->
       <h2 style="font-size: 48px; font-weight: 400; margin-bottom: 40px;">
         Amazing views of <span style="font-weight: 700; text-decoration: underline; color: #4a1e1e;">Ubud</span>
       </h2>
 
       <div class="row align-items-center g-4">
-
-        <!-- Kiri: Grid 6 Foto 3x2 -->
         <div class="col-md-7">
           <div class="row g-3">
             <div class="col-4">
@@ -263,7 +258,6 @@
           </div>
         </div>
 
-        <!-- Kanan: Teks & Tombol -->
         <div class="col-md-5 ps-md-4">
           <p style="font-size: 16px; line-height: 2; margin-bottom: 20px;">
             Nestled in the lush central highlands of Bali, Ubud is surrounded by breathtaking natural beauty.
