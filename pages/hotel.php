@@ -33,13 +33,13 @@
             <p class="text-muted mb-2" style="font-size: 13px;">
               <i class="bi bi-geo-alt me-1"></i>Ubud, Bali, Indonesia
             </p>
-            <div class="d-flex align-items-center gap-2 mb-2">
-              <span class="text-white px-2 py-1 rounded-2 fw-bold" style="background-color: #2e7d32; font-size: 13px;">9.2</span>
-              <span class="text-muted" style="font-size: 13px;">Wonderful (1467)</span>
-              <span class="text-warning">★★★</span>
+            <div class="d-flex align-items-center gap-1 mb-2">
+              <span class="text-warning fs-3">★</span>
+              <span class="py-1 rounded-2 fw-bold text-dark" font-size: 13px;">9.2</span>
+              <span class="text-muted" style="font-size: 13px;">Indah (1467)</span>
             </div>
             <p class="mb-0" style="font-size: 14px;">
-              Mulai dari <strong style="color: #e8500a;">Rp 750.000</strong> / malam
+              Mulai dari <strong>Rp 750.000</strong> / malam
             </p>
           </div>
           <div class="d-flex flex-column align-items-center justify-content-center px-4 gap-1" style="background-color: #f5f5f5; min-width: 150px; border-left: 1px solid #eee;">
@@ -62,13 +62,13 @@
             <p class="text-muted mb-2" style="font-size: 13px;">
               <i class="bi bi-geo-alt me-1"></i>Ubud, Bali, Indonesia
             </p>
-            <div class="d-flex align-items-center gap-2 mb-2">
-              <span class="text-white px-2 py-1 rounded-2 fw-bold" style="background-color: #2e7d32; font-size: 13px;">9.3</span>
-              <span class="text-muted" style="font-size: 13px;">Wonderful (1113)</span>
-              <span class="text-warning">★★★</span>
+            <div class="d-flex align-items-center gap-1 mb-2">
+              <span class="text-warning fs-3">★</span>
+              <span class="py-1 rounded-2 fw-bold text-dark" font-size: 13px;">9.0</span>
+              <span class="text-muted" style="font-size: 13px;">Indah (1113)</span>
             </div>
             <p class="mb-0" style="font-size: 14px;">
-              Mulai dari <strong style="color: #e8500a;">Rp 1.116.000</strong> / malam
+              Mulai dari <strong>Rp 1.116.000</strong> / malam
             </p>
           </div>
           <div class="d-flex flex-column align-items-center justify-content-center px-4 gap-1" style="background-color: #f5f5f5; min-width: 150px; border-left: 1px solid #eee;">
@@ -91,13 +91,13 @@
             <p class="text-muted mb-2" style="font-size: 13px;">
               <i class="bi bi-geo-alt me-1"></i>Ubud, Bali, Indonesia
             </p>
-            <div class="d-flex align-items-center gap-2 mb-2">
-              <span class="text-white px-2 py-1 rounded-2 fw-bold" style="background-color: #2e7d32; font-size: 13px;">9.0</span>
-              <span class="text-muted" style="font-size: 13px;">Wonderful (865)</span>
-              <span class="text-warning">★★★</span>
+            <div class="d-flex align-items-center gap-1 mb-2">
+              <span class="text-warning fs-3">★</span>
+              <span class="py-1 rounded-2 fw-bold text-dark" font-size: 13px;">9.0</span>
+              <span class="text-muted" style="font-size: 13px;">Indah (865)</span>
             </div>
             <p class="mb-0" style="font-size: 14px;">
-              Mulai dari <strong style="color: #e8500a;">Rp 995.000</strong> / malam
+              Mulai dari <strong>Rp 995.000</strong> / malam
             </p>
           </div>
           <div class="d-flex flex-column align-items-center justify-content-center px-4 gap-1" style="background-color: #f5f5f5; min-width: 150px; border-left: 1px solid #eee;">
@@ -105,6 +105,35 @@
             <p class="fw-bold mb-0" style="font-size: 22px;">Rp 995K</p>
             <p class="text-success mb-2" style="font-size: 11px;">Gratis Biaya Batal Booking</p>
             <a href="/tugas-uts-pweb/pages/information-hotel-solo.php" class="btn btn-outline-dark w-100" style="font-size: 13px;">Detail</a>
+          </div>
+        </div>
+      </div>
+      <div class="card border-0 shadow-sm rounded-4 overflow-hidden d-flex flex-row" style="height: 160px;">
+        <img 
+          src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/117072356.jpg?k=bff5d6f1ac362c4fa68e0777cc0e6559ba2f20c9786860546b7344a615506d34&o=" 
+          alt="ubud-village-hotel"
+          style="width: 220px; object-fit: cover; flex-shrink: 0;"
+        >
+        <div class="card-body d-flex flex-row p-0">
+          <div class="d-flex flex-column justify-content-center px-4 flex-grow-1">
+            <h5 class="fw-bold mb-1">Ubud Village Hotel</h5>
+            <p class="text-muted mb-2" style="font-size: 13px;">
+              <i class="bi bi-geo-alt me-1"></i>Ubud, Bali, Indonesia
+            </p>
+            <div class="d-flex align-items-center gap-1 mb-2">
+              <span class="text-warning fs-3">★</span>
+              <span class="py-1 rounded-2 fw-bold text-dark" font-size: 13px;">8.7</span>
+              <span class="text-muted" style="font-size: 13px;">Bagus (611)</span>
+            </div>
+            <p class="mb-0" style="font-size: 14px;">
+              Mulai dari <strong>Rp 995.000</strong> / malam
+            </p>
+          </div>
+          <div class="d-flex flex-column align-items-center justify-content-center px-4 gap-1" style="background-color: #f5f5f5; min-width: 150px; border-left: 1px solid #eee;">
+            <p class="text-muted mb-0" style="font-size: 11px;">Gratis Makan Pagi</p>
+            <p class="fw-bold mb-0" style="font-size: 22px;">Rp 995K</p>
+            <p class="text-success mb-2" style="font-size: 11px;">Gratis Biaya Batal Booking</p>
+            <a href="/tugas-uts-pweb/pages/information-hotel-village.php" class="btn btn-outline-dark w-100" style="font-size: 13px;">Detail</a>
           </div>
         </div>
       </div>
