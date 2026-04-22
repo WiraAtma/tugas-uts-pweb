@@ -209,7 +209,7 @@
       </div>
 
       <div class="card border-0 shadow-sm rounded-4 overflow-hidden" style="width: 18rem; flex-shrink: 0;">
-        <a class="text-decoration-none text-dark" href="../tugas-uts-pweb/pages/information-ubud-palace.php">
+        <a class="text-decoration-none text-dark" href="../tugas-uts-pweb/pages/information-tirta-empul-temple.php">
           <img 
             class="card-img-top" 
             src="https://ubudtourism.com/wp-content/uploads/elementor/thumbs/Tirta-Empul-Temple-ubud-bali-guide-qps18vwwtffibqa6yruvheqrpg0dyac6rg4el1c2yo.jpg" 

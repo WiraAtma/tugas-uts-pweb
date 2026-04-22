@@ -14,16 +14,16 @@
     <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
       <ul class="navbar-nav gap-4">
         <li class="nav-item">
-          <a class="nav-link" href="">Destinasi</a>
+          <a class="nav-link" href="/tugas-uts-pweb/pages/destination.php">Destinasi</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="">Pengalaman</a>
+          <a class="nav-link" href="">Galeri</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="">Rencanakan Perjalanan Anda</a>
+          <a class="nav-link" href="">Restoran</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="">Informasi</a>
+          <a class="nav-link" href="">Hotel</a>
         </li>
       </ul>
     </div>
