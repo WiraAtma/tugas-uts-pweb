@@ -86,7 +86,7 @@
       <div class="col-7">
         <h5 class="fw-bold mb-2">Lokasi Strategis & Mudah Dijangkau</h5>
         <p class="text-muted" style="font-size: 14px; line-height: 1.8;">
-          Terletak langsung di Jalan Monkey Forest, hotel ini berjarak kurang dari 10 menit berjalan kaki menuju Ubud Monkey Forest, Ubud Palace, dan Pasar Seni Tradisional Ubud — semua destinasi ikonik ada di ujung jalan.
+          Terletak langsung di Jalan Monkey Forest, hotel ini berjarak kurang dari 10 menit berjalan kaki menuju Ubud Monkey Forest, Ubud Palace, dan Pasar Seni Tradisional Ubud semua destinasi ikonik ada di ujung jalan.
         </p>
         <p class="text-muted" style="font-size: 14px; line-height: 1.8;">
           Jaraknya sekitar 90 menit berkendara dari Bandara Internasional Ngurah Rai.
