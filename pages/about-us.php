@@ -602,9 +602,7 @@
 </section>
 
 
-<!-- ═══════════════════════════════
-     STORY
-═══════════════════════════════ -->
+<!--STORY-->
 <section id="story">
   <div class="container">
     <div class="row align-items-center g-5">
