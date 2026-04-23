@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-4 mb-4">
-        <img src="https://primakara.ac.id/primakara-logo.png" 
+        <img src="/tugas-uts-pweb/assets/logo-navbar.png" 
              alt="logo" width="160">
       </div>
 

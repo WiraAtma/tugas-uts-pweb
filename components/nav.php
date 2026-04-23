@@ -3,7 +3,7 @@
 
     <!-- Logo -->
     <a class="navbar-brand d-flex align-items-center" href="/tugas-uts-pweb/index.php">
-      <img src="https://primakara.ac.id/primakara-logo.png" 
+      <img src="/tugas-uts-pweb/assets/logo-navbar.png" 
            alt="logo" width="120">
     </a>
 
