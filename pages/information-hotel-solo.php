@@ -1,8 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<<<<<<< HEAD
+=======
+  <title>Solo Villas & Retreat — Informasi Hotel</title>
+>>>>>>> 09b8351669c52a9008e4e5d1808b9669a3060b19
   <link 
     href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" 
     rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" 
@@ -15,7 +19,11 @@
     /* ── HERO ── */
     .hero-img {
       width: 100%;
+<<<<<<< HEAD
       height: 450px;
+=======
+      height: 480px;
+>>>>>>> 09b8351669c52a9008e4e5d1808b9669a3060b19
       object-fit: cover;
       border-radius: 16px;
     }
@@ -288,11 +296,20 @@
       </a>
     </div>
 
+<<<<<<< HEAD
     
     <div class="row justify-content-center">
       <div class="col-md-11">
 
         <!-- HERO — Gambar kiri, teks kanan-->
+=======
+    <div class="row justify-content-center">
+      <div class="col-md-11">
+
+        <!-- ================================================
+             HERO — Gambar kiri, teks kanan
+        ================================================ -->
+>>>>>>> 09b8351669c52a9008e4e5d1808b9669a3060b19
         <div class="row align-items-center mb-5">
 
           <!-- Gambar -->
@@ -303,7 +320,11 @@
           <!-- Teks -->
           <div class="col-md-6 hero-text-col">
             <span class="hotel-badge">★ Solo Villas — Ubud, Denpasar Utara ★</span>
+<<<<<<< HEAD
             <h1 class="hotel-title">Solo Villas &amp; Retreat</h1>
+=======
+            <h1 class="hotel-title">Solo Villas<br>&amp; Retreat</h1>
+>>>>>>> 09b8351669c52a9008e4e5d1808b9669a3060b19
             <p class="hotel-subtitle">Kemewahan Autentik di Jantung Desa Ubud</p>
             <div class="gold-divider"></div>
             <p class="hotel-desc">
@@ -334,7 +355,13 @@
           </div>
         </div>
 
+<<<<<<< HEAD
         <!-- FASILITAS — Card dengan gambar -->
+=======
+        <!-- ================================================
+             FASILITAS — Card dengan gambar
+        ================================================ -->
+>>>>>>> 09b8351669c52a9008e4e5d1808b9669a3060b19
         <div class="mb-5">
           <p class="section-label">Apa yang Kami Tawarkan</p>
           <h2 class="section-title">Fasilitas Unggulan</h2>
@@ -400,7 +427,13 @@
           </div>
         </div>
 
+<<<<<<< HEAD
         <!-- GALERI — Card foto + keterangan -->
+=======
+        <!-- ================================================
+             GALERI — Card foto + keterangan
+        ================================================ -->
+>>>>>>> 09b8351669c52a9008e4e5d1808b9669a3060b19
         <div class="mb-5">
           <p class="section-label">Lihat Lebih Dekat</p>
           <h2 class="section-title">Galeri Hotel</h2>
@@ -443,7 +476,13 @@
           </div>
         </div>
 
+<<<<<<< HEAD
         <!-- INFORMASI LENGKAP — Box dark -->
+=======
+        <!-- ================================================
+             INFORMASI LENGKAP — Box dark
+        ================================================ -->
+>>>>>>> 09b8351669c52a9008e4e5d1808b9669a3060b19
         <div class="mb-5">
           <p class="section-label">Detail</p>
           <h2 class="section-title">Informasi Penting</h2>
@@ -458,7 +497,11 @@
                   </div>
                   <div>
                     <p class="info-lbl">Lokasi</p>
+<<<<<<< HEAD
                     <p class="info-val">Jl. Adi Sucipto No. 47, Ubud, Denpasar Utara</p>
+=======
+                    <p class="info-val">Jl. Adi Sucipto No. 47, Surakarta</p>
+>>>>>>> 09b8351669c52a9008e4e5d1808b9669a3060b19
                   </div>
                 </div>
                 <div class="info-row">
