@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ubud Palace</title>
+  <title>Istana Ubud</title>
   <link 
     href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" 
     rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" 
@@ -20,7 +20,7 @@
 
     <div class="text-center mb-4">
       <a href="../index.php" class="text-decoration-none text-muted" style="font-size: 14px; letter-spacing: 1px;">
-        ← Kembali ke Home
+        ← Kembali ke Beranda
       </a>
     </div>
 
@@ -28,74 +28,74 @@
 
     <img 
       src="https://www.bulgarihotels.com/.imaging/bhr-wide-big-jpg/dam/arteit/79297---the-magic-of-the-palace-in-ubud%2C-a-place-o/format-2560x1600-79297/jcr%3Acontent" 
-      alt="Ubud Palace Banner"
+      alt="Spanduk Istana Ubud"
       class="img-fluid rounded-3 w-100 mb-5"
       style="height: 260px; object-fit: cover;"
     >
 
     <div class="mb-5">
       <p class="text-muted" style="font-size: 14px; line-height: 1.8;">
-        Ubud Palace, also known as Puri Saren Agung, is a historical building complex located 
-        in the center of Ubud, Bali. It is the official residence of the royal family of Ubud 
-        and serves as an important cultural landmark in the area.
+        Istana Ubud, juga dikenal sebagai Puri Saren Agung, adalah kompleks bangunan bersejarah yang 
+        terletak di pusat Ubud, Bali. Tempat ini merupakan kediaman resmi keluarga kerajaan Ubud 
+        dan berfungsi sebagai landmark budaya yang penting di kawasan tersebut.
       </p>
       <p class="text-muted" style="font-size: 14px; line-height: 1.8;">
-        The palace is well-known for its traditional Balinese architecture, featuring intricate 
-        carvings, detailed stonework, and beautifully designed courtyards that reflect the rich 
-        artistic heritage of Bali.
+        Istana ini sangat terkenal dengan arsitektur Bali tradisionalnya, menampilkan ukiran-ukiran 
+        yang rumit, karya batu yang detail, dan halaman-halaman yang dirancang dengan indah, 
+        mencerminkan kekayaan warisan seni Bali.
       </p>
       <p class="text-muted" style="font-size: 14px; line-height: 1.8;">
-        Visitors can explore parts of the palace and experience its unique atmosphere, which 
-        combines history, culture, and local traditions in one place.
+        Pengunjung dapat menjelajahi sebagian area istana dan merasakan suasananya yang unik, 
+        yang memadukan sejarah, budaya, dan tradisi lokal dalam satu tempat.
       </p>
       <p class="text-muted" style="font-size: 14px; line-height: 1.8;">
-        In the evening, the palace becomes a lively cultural venue where traditional Balinese 
-        dance performances are held regularly, attracting both local and international tourists.
+        Di malam hari, istana ini menjadi venue budaya yang semarak di mana pertunjukan tari 
+        tradisional Bali digelar secara rutin, menarik wisatawan lokal maupun mancanegara.
       </p>
       <p class="text-muted" style="font-size: 14px; line-height: 1.8;">
-        Because of its central location, Ubud Palace is also surrounded by art markets, cafes, 
-        and other attractions, making it a must-visit destination for anyone traveling to Ubud.
+        Karena lokasinya yang strategis, Istana Ubud juga dikelilingi oleh pasar seni, kafe, 
+        dan berbagai atraksi lainnya, menjadikannya destinasi wajib bagi siapa pun yang berkunjung ke Ubud.
       </p>
     </div>
 
     <div class="row align-items-start g-4 mb-5">
       <div class="col-7">
-        <h5 class="fw-bold mb-2">History and Culture</h5>
+        <h5 class="fw-bold mb-2">Sejarah dan Budaya</h5>
         <p class="text-muted" style="font-size: 14px; line-height: 1.8;">
-          The Ubud Palace has a long history as the residence of the royal family of Ubud. 
-          It reflects traditional Balinese architecture and cultural values that have been 
-          preserved for generations.
+          Istana Ubud memiliki sejarah panjang sebagai kediaman keluarga kerajaan Ubud. 
+          Istana ini mencerminkan arsitektur Bali tradisional dan nilai-nilai budaya yang telah 
+          dijaga selama turun-temurun.
         </p>
         <p class="text-muted" style="font-size: 14px; line-height: 1.8;">
-          The palace complex consists of several traditional buildings featuring intricate 
-          carvings, stone gates, and beautifully designed courtyards that represent the 
-          artistic heritage of Bali.
+          Kompleks istana terdiri dari beberapa bangunan tradisional yang menampilkan ukiran 
+          yang rumit, gerbang batu, dan halaman yang dirancang dengan indah, 
+          merepresentasikan warisan seni Bali.
         </p>
         <p class="text-muted" style="font-size: 14px; line-height: 1.8;">
-          The palace is also a center for art and culture, where traditional dance performances 
-          are held regularly for visitors, especially during the evening.
+          Istana ini juga merupakan pusat seni dan budaya, di mana pertunjukan tari tradisional 
+          digelar secara rutin untuk para pengunjung, terutama pada malam hari.
         </p>
         <p class="text-muted" style="font-size: 14px; line-height: 1.8;">
-          Visitors can enjoy famous Balinese dances such as Legong and Barong, which provide 
-          a unique cultural experience and attract tourists from around the world.
+          Pengunjung dapat menikmati tarian Bali terkenal seperti Legong dan Barong, yang memberikan 
+          pengalaman budaya yang unik dan menarik wisatawan dari seluruh dunia.
         </p>
       </div>
       <div class="col-5 d-flex flex-column gap-3">
         <img 
           src="https://awsimages.detik.net.id/community/media/visual/2024/02/23/ubud-water-palace-3_169.jpeg?w=1200" 
-          alt="Ubud Palace 1"
+          alt="Istana Ubud 1"
           class="img-fluid rounded-3 w-100" 
           style="object-fit: cover; height: 130px;"
         >
         <img 
           src="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit1600900gsm/eventThirdParty/2024/03/19/7aaf9067-8132-4029-956b-775520aa7533-1710865903297-96c9169b084fa6c7865052e4792f313a.jpg" 
-          alt="Ubud Palace 2"
+          alt="Istana Ubud 2"
           class="img-fluid rounded-3 w-100" 
           style="object-fit: cover; height: 130px;"
         >
         <img 
           src="https://pohcdn.com/sites/default/files/styles/paragraph__hero_banner__hb_image__1880bp/public/hero_banner/Puri-Saren-Agung.jpg" 
-          alt="Ubud Palace 3"
+          alt="Istana Ubud 3"
           class="img-fluid rounded-3 w-100" 
           style="object-fit: cover; height: 130px;"
         >
@@ -104,31 +104,32 @@
 
     <div class="mb-5">
       <p class="text-muted" style="font-size: 14px; line-height: 1.8;">
-        Today, Ubud Palace remains not only a historical landmark but also a living cultural 
-        site that continues to preserve and promote Balinese traditions.
+        Hingga saat ini, Istana Ubud tidak hanya menjadi landmark bersejarah, tetapi juga 
+        situs budaya yang hidup dan terus melestarikan serta mempromosikan tradisi Bali.
       </p>
       <p class="text-muted" style="font-size: 14px; line-height: 1.8;">
-        The palace grounds are open to the public during the day, allowing visitors to walk 
-        through its sacred courtyards and admire the detailed stone sculptures and ornamental gates.
+        Area istana terbuka untuk umum pada siang hari, memungkinkan pengunjung untuk berjalan 
+        menelusuri halaman-halaman sakralnya dan mengagumi patung-patung batu serta gerbang 
+        ornamental yang penuh detail.
       </p>
     </div>
 
     <div class="mb-5">
-      <h5 class="fw-bold mb-3">Visitor Information</h5>
+      <h5 class="fw-bold mb-3">Informasi Pengunjung</h5>
       <p class="text-muted" style="font-size: 14px; line-height: 1.8;">
-        <i class="bi bi-geo-alt me-2"></i><strong>Location:</strong> Ubud, Gianyar, Bali
+        <i class="bi bi-geo-alt me-2"></i><strong>Lokasi:</strong> Ubud, Gianyar, Bali
       </p>
       <p class="text-muted" style="font-size: 14px; line-height: 1.8;">
-        <i class="bi bi-clock me-2"></i><strong>Hours:</strong> Open daily from morning until night
+        <i class="bi bi-clock me-2"></i><strong>Jam Buka:</strong> Buka setiap hari dari pagi hingga malam
       </p>
       <p class="text-muted" style="font-size: 14px; line-height: 1.8;">
-        <i class="bi bi-music-note-beamed me-2"></i><strong>Performance:</strong> Traditional dance performances are usually held in the evening
+        <i class="bi bi-music-note-beamed me-2"></i><strong>Pertunjukan:</strong> Pertunjukan tari tradisional biasanya digelar pada malam hari
       </p>
     </div>
 
     <div class="text-center mb-4">
       <a href="../index.php" class="text-decoration-none text-muted" style="font-size: 14px; letter-spacing: 1px;">
-        ← Kembali ke Home
+        ← Kembali ke Beranda
       </a>
     </div>
 
