@@ -16,7 +16,7 @@
   <?php include "../tugas-uts-pweb/components/nav.php"; ?>
 
   <div style="position: relative;">
-    <img class="w-100 d-block" style="background-color: rgba(0, 0, 0, 0.4)" src="https://sanurtour.com/wp-content/uploads/2016/10/HEADER-IMAGE.gif" alt="">
+    <img class="img-fluid" style="background-color: rgba(0, 0, 0, 0.4)" src="https://sanurtour.com/wp-content/uploads/2016/10/HEADER-IMAGE.gif" alt="">
     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.4);"></div>
     <div style="position: absolute; top: 50%; left: 0; transform: translateY(-50%); color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); padding-left: 60px; max-width: 50%;">
       <h1 style="font-size: 48px; font-weight: bold; line-height: 1.2; margin-bottom: 20px;">Jelajahi Keindahan Ubud</h1>
