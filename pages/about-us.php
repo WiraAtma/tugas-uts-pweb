@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tentang Kami — Travel Ubud</title>
+  <title>Tentang Kami Travel Ubud</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
   <link rel="stylesheet" href="/assets/global-style.css">
@@ -39,7 +39,7 @@
         <hr class="my-4" style="border-color: #e0e0e0;">
         <p class="text-muted" style="font-size: 15px; line-height: 1.85;">
           Travel Ubud berdiri sejak 2015 dari sebuah percakapan sederhana di warung kopi pinggir sawah.
-          Kami percaya wisatawan layak mendapatkan lebih dari sekadar foto — mereka berhak merasakan jiwa
+          Kami percaya wisatawan layak mendapatkan lebih dari sekadar foto mereka berhak merasakan jiwa
           Ubud yang sesungguhnya melalui orang-orang lokal yang mencintainya.
         </p>
         <p class="text-muted" style="font-size: 15px; line-height: 1.85;">
@@ -63,7 +63,7 @@
           </div>
           <h5 class="fw-bold mb-3">Visi</h5>
           <p class="text-muted" style="font-size: 15px; line-height: 1.85;">
-            Menjadi jembatan terpercaya antara dunia dan jiwa Ubud — agar setiap tamu pulang membawa
+            Menjadi jembatan terpercaya antara dunia dan jiwa Ubud agar setiap tamu pulang membawa
             lebih dari sekadar foto, melainkan pemahaman mendalam tentang budaya dan alam Bali.
           </p>
         </div>
@@ -98,7 +98,7 @@
               <i class="bi bi-geo-alt fs-5"></i>
             </div>
             <h6 class="fw-bold">100% Lokal & Autentik</h6>
-            <p class="text-muted small">Semua pemandu dan mitra adalah warga asli Ubud — bukan paket turis massal.</p>
+            <p class="text-muted small">Semua pemandu dan mitra adalah warga asli Ubud bukan paket turis massal.</p>
           </div>
         </div>
         <div class="col-md-6 col-lg-3">
@@ -107,7 +107,7 @@
               <i class="bi bi-bank fs-5"></i>
             </div>
             <h6 class="fw-bold">Berbasis Budaya</h6>
-            <p class="text-muted small">Kami tidak hanya mengantar ke tempat wisata — kami menjelaskan makna di baliknya.</p>
+            <p class="text-muted small">Kami tidak hanya mengantar ke tempat wisata kami menjelaskan makna di baliknya.</p>
           </div>
         </div>
         <div class="col-md-6 col-lg-3">

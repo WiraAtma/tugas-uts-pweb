@@ -16,14 +16,6 @@
   <?php include "../components/nav.php"; ?>
 
   <main class="container">
-    <div class="text-center mb-4">
-      <a href="../index.php" class="text-decoration-none text-muted" style="font-size: 14px; letter-spacing: 1px;">
-        ← Kembali ke Home
-      </a>
-    </div>
-    <!-- koding disini -->
-
-
 <section class="py-3">
 
     <div class="p-5 rounded-4 border bg-white">
@@ -119,13 +111,18 @@
          alt="seni-5" class="rounded-3" style="width: 100%; height:250px; object-fit:cover;">
   </div>
 </div>
-
-    <div class="text-center my-4">
-      <a href="../index.php" class="text-decoration-none text-muted" style="font-size: 14px; letter-spacing: 1px;">
-        ← Kembali ke Home
-      </a>
-    </div>
   </main>
+
+<div style="background-color: #f8f8f6; padding: 80px 0; text-align: center;">
+  <div class="container">
+    <h2 style="font-size: 40px; font-weight: 800; margin-bottom: 16px;">Masih Ingin Jelajahi Ubud?</h2>
+    <p style="font-size: 16px; max-width: 460px; margin: 0 auto 36px; line-height: 1.75;">
+      Temukan destinasi wisata, penginapan terbaik, dan galeri pemandangan Ubud yang menakjubkan.
+    </p>
+    <a href="../pages/destination.php" class="btn btn-outline-dark rounded-pill px-5 py-3 me-2">Lihat Destinasi</a>
+    <a href="../pages/hotel.php" class="btn btn-outline-dark rounded-pill px-5 py-3">Cari Hotel</a>
+  </div>
+</div>
 
   <?php include "../components/footer.php"; ?>
   <script 
