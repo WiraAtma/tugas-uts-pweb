@@ -195,10 +195,10 @@
 
     /* ── INFO BOX ── */
     .info-box {
-      background: #309822;
+      background: #d4d6d4;
       border-radius: 16px;
       padding: 2rem;
-      color: #f5f0e8;
+      color: #000;
     }
 
     .info-box .info-row {
@@ -234,14 +234,14 @@
       font-size: 11px;
       letter-spacing: 1.5px;
       text-transform: uppercase;
-      color: rgba(245,240,232,0.45);
+      color: #555;
       margin-bottom: 2px;
     }
 
     .info-box .info-val {
       font-size: 15px;
       font-weight: 500;
-      color: #f5f0e8;
+      color: #000;
       margin: 0;
     }
 
